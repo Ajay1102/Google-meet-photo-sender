@@ -1,0 +1,15 @@
+{
+    "name": "google meet photo sender",
+    "description": "Simple Chrome Extension to send photos in google meet chat",
+    
+    "version": "1.0",
+    "manifest_version": 2,
+   "browser_action": {
+      "default_popup": "popup.html" 
+ 
+    },
+    "permissions":["activeTab" ,"storage" ,"tabs"]
+
+  
+  
+  }
